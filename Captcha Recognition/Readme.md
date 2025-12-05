@@ -86,7 +86,7 @@ Performance varies depending on dataset split and hyperparameters.
 - **Location is the strongest predictor of house prices.
 - **Outlier removal significantly improves model accuracy.
 - **Prices increase with BHK but not always proportionally.
-- **Larger homes (sqft) tend to show more price variability between locations.
+- Larger homes (sqft) tend to show more price variability between locations.
 
 ---
 
